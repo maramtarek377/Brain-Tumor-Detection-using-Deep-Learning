@@ -53,7 +53,7 @@ Using 20% of the dataset for testing:
 * **Accuracy**: 90%
 * **Macro F1 Score**: 90%
 * **Confusion Matrix**:
-  ![Confusion Matrix](confusion_matrix.png) ← *(you can save and link the generated image here)*
+  ![Confusion Matrix](confusion_matrix.png) 
 
 ---
 
