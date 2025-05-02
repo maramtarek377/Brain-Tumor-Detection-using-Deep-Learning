@@ -1,6 +1,3 @@
-Here's a smart and structured `README.md` for your brain tumor detection project. This version includes sections on project overview, dataset, model, training, evaluation results (with your classification report), Grad-CAM visualization, and usage instructions.
-
----
 
 # 🧠 Brain Tumor Detection Using Transfer Learning (ResNet50)
 
